@@ -11,8 +11,11 @@
 
 Advantages:
 ->Automated and real-time engagement tracking.
+
 ->Reduces manual effort and bias.
+
 ->Scalable for online and offline classrooms.
+
 
 
 
